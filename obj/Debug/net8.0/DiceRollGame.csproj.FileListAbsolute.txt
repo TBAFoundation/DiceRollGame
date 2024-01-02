@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\MGQSC#CLASS\DiceRollGame\bin\Debug\net8.0\DiceRollGame.exe
+C:\Users\DELL\Desktop\MGQSC#CLASS\DiceRollGame\bin\Debug\net8.0\DiceRollGame.deps.json
+C:\Users\DELL\Desktop\MGQSC#CLASS\DiceRollGame\bin\Debug\net8.0\DiceRollGame.runtimeconfig.json
+C:\Users\DELL\Desktop\MGQSC#CLASS\DiceRollGame\bin\Debug\net8.0\DiceRollGame.dll
+C:\Users\DELL\Desktop\MGQSC#CLASS\DiceRollGame\bin\Debug\net8.0\DiceRollGame.pdb
+C:\Users\DELL\Desktop\MGQSC#CLASS\DiceRollGame\obj\Debug\net8.0\DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\MGQSC#CLASS\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\MGQSC#CLASS\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfo.cs
+C:\Users\DELL\Desktop\MGQSC#CLASS\DiceRollGame\obj\Debug\net8.0\DiceRollGame.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\MGQSC#CLASS\DiceRollGame\obj\Debug\net8.0\DiceRollGame.dll
+C:\Users\DELL\Desktop\MGQSC#CLASS\DiceRollGame\obj\Debug\net8.0\refint\DiceRollGame.dll
+C:\Users\DELL\Desktop\MGQSC#CLASS\DiceRollGame\obj\Debug\net8.0\DiceRollGame.pdb
+C:\Users\DELL\Desktop\MGQSC#CLASS\DiceRollGame\obj\Debug\net8.0\DiceRollGame.genruntimeconfig.cache
+C:\Users\DELL\Desktop\MGQSC#CLASS\DiceRollGame\obj\Debug\net8.0\ref\DiceRollGame.dll
